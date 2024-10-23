@@ -27,6 +27,12 @@
       alt="typescript"
       width="128"
     />
+    <img
+      style="border-radius: 10px;"
+      src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+      alt="python"
+      width="64"
+    />
   </div>
 
   <h2 style="text-align: center; margin-top: 50px;">Frameworks</h2>
@@ -61,6 +67,12 @@
       style="border-radius: 10px"
       src="https://avatars.githubusercontent.com/u/143937?v=4"
       alt="symfony"
+      width="64"
+    />
+    <img
+      style="border-radius: 10px"
+      src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"
+      alt="fastapi"
       width="64"
     />
   </div>
