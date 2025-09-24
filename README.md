@@ -71,6 +71,12 @@
     />
     <img
       style="border-radius: 10px"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMoO1kQEm6tKiQbd-moXfnmzFakSSyYPpdIw&s"
+      alt="laravel"
+      width="64"
+    />
+    <img
+      style="border-radius: 10px"
       src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"
       alt="fastapi"
       width="64"
@@ -91,6 +97,12 @@
       style="border-radius: 10px"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/2560px-MySQL_textlogo.svg.png"
       alt="mysql"
+      width="64"
+    />
+    <img
+      style="border-radius: 10px"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Microsoft_SQL_Server_2025_icon.svg/1200px-Microsoft_SQL_Server_2025_icon.svg.png"
+      alt="mssql"
       width="64"
     />
     <img
