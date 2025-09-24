@@ -17,7 +17,7 @@
     />
     <img
       style="border-radius: 10px"
-      src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"
       alt="typescript"
       width="64"
     />
@@ -89,13 +89,13 @@
   >
     <img
       style="border-radius: 10px"
-      src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/2560px-MySQL_textlogo.svg.png"
       alt="mysql"
       width="64"
     />
     <img
       style="border-radius: 10px"
-      src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1163px-Postgresql_elephant.svg.png"
       alt="postresql"
       width="90"
     />
