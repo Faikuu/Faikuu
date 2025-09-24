@@ -129,6 +129,19 @@
       alt="git"
       width="64"
     />
+    <img
+      style="border-radius: 10px"
+      src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"
+      alt="docker"
+      width="64"
+    />
+    <img
+      style="border-radius: 10px"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png"
+      alt="tailwind"
+      width="64"
+    />
+    
     
   </div>
 </div>
