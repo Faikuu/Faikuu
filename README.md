@@ -141,7 +141,29 @@
       alt="tailwind"
       width="64"
     />
-    
-    
+  </div>
+
+  <h2 style="text-align: center; margin-top: 50px;">Operating Systems</h2>
+
+  <div
+    style="
+      display: flex;
+      gap: 15px;
+      justify-content: center;
+      align-items: center;
+    "
+  >
+    <img
+      style="border-radius: 10px"
+      src="https://cdn.iconscout.com/icon/free/png-256/free-linux-logo-icon-svg-download-png-2944967.png"
+      alt="GNU/Linux"
+      width="64"
+    />
+    <img
+      style="border-radius: 10px"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Windows_logo_-_2012_flags_blue.svg/2321px-Windows_logo_-_2012_flags_blue.svg.png"
+      alt="Windows"
+      width="64"
+    />
   </div>
 </div>
