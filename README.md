@@ -155,7 +155,7 @@
   >
     <img
       style="border-radius: 10px"
-      src="https://cdn.iconscout.com/icon/free/png-256/free-linux-logo-icon-svg-download-png-2944967.png"
+      src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-1-logo-png-transparent.png"
       alt="GNU/Linux"
       width="64"
     />
