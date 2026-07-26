@@ -71,6 +71,12 @@
     />
     <img
       style="border-radius: 10px"
+      src="https://github.com/Faikuu/Faikuu/blob/main/vue.webp"
+      alt="vue"
+      width="64"
+    />
+    <img
+      style="border-radius: 10px"
       src="https://avatars.githubusercontent.com/u/143937?v=4"
       alt="symfony"
       width="64"
@@ -181,6 +187,18 @@
       style="border-radius: 10px"
       src="https://github.com/Faikuu/Faikuu/blob/main/windows.webp"
       alt="Windows"
+      width="64"
+    />
+    <img
+      style="border-radius: 10px"
+      src="https://github.com/Faikuu/Faikuu/blob/main/macos.png"
+      alt="MacOS"
+      width="64"
+    />
+    <img
+      style="border-radius: 10px"
+      src="https://github.com/Faikuu/Faikuu/blob/main/freebsd.png"
+      alt="FreeBSD"
       width="64"
     />
   </div>
