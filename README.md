@@ -101,19 +101,19 @@
   >
     <img
       style="border-radius: 10px"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/2560px-MySQL_textlogo.svg.png"
+      src="https://github.com/Faikuu/Faikuu/blob/main/mysql.png"
       alt="mysql"
       width="64"
     />
     <img
       style="border-radius: 10px"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Microsoft_SQL_Server_2025_icon.svg/1200px-Microsoft_SQL_Server_2025_icon.svg.png"
+      src="https://github.com/Faikuu/Faikuu/blob/main/mssql.webp"
       alt="mssql"
       width="64"
     />
     <img
       style="border-radius: 10px"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1163px-Postgresql_elephant.svg.png"
+      src="https://github.com/Faikuu/Faikuu/blob/main/postgresql.webp"
       alt="postresql"
       width="90"
     />
@@ -137,13 +137,13 @@
   >
     <img
       style="border-radius: 10px"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"
+      src="https://github.com/Faikuu/Faikuu/blob/main/nodejs.webp"
       alt="nodejs"
       width="64"
     />
     <img
       style="border-radius: 10px"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"
+      src="https://github.com/Faikuu/Faikuu/blob/main/git.webp"
       alt="git"
       width="64"
     />
@@ -155,7 +155,7 @@
     />
     <img
       style="border-radius: 10px"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png"
+      src="https://github.com/Faikuu/Faikuu/blob/main/tailwind.webp"
       alt="tailwind"
       width="64"
     />
@@ -179,7 +179,7 @@
     />
     <img
       style="border-radius: 10px"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Windows_logo_-_2012_flags_blue.svg/2321px-Windows_logo_-_2012_flags_blue.svg.png"
+      src="https://github.com/Faikuu/Faikuu/blob/main/windows.webp"
       alt="Windows"
       width="64"
     />
