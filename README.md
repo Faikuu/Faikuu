@@ -11,13 +11,13 @@
   >
     <img
       style="border-radius: 10px"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"
+      src="https://github.com/Faikuu/Faikuu/blob/main/javascript.png"
       alt="javascript"
       width="64"
     />
     <img
       style="border-radius: 10px"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"
+      src="https://github.com/Faikuu/Faikuu/blob/main/typescript.svg"
       alt="typescript"
       width="64"
     />
@@ -31,6 +31,12 @@
       style="border-radius: 10px;"
       src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
       alt="python"
+      width="64"
+    />
+    <img
+      style="border-radius: 10px;"
+      src="https://github.com/Faikuu/Faikuu/blob/main/dotnet.webp"
+      alt="dotnet"
       width="64"
     />
   </div>
