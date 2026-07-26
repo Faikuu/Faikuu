@@ -23,8 +23,8 @@
     />
     <img
       style="border-radius: 10px"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png"
-      alt="typescript"
+      src="https://github.com/Faikuu/Faikuu/blob/main/php.webp"
+      alt="php"
       width="128"
     />
     <img
